@@ -1,0 +1,7 @@
+results/
+checkpoint-10/
+lora_adapter/*.safetensors
+lora_adapter/*.bin
+venv/
+.env
+__pycache__/
